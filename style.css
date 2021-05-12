@@ -242,7 +242,7 @@ input:-webkit-autofill:focus {
 }
 /*Bread Crumbs */
 .breadcrumbs {
-	background: url('http://via.placeholder.com/1600x500');
+	background: url('images/bread.jpg');
 	background-position: 100%;
 	position: relative;
 	background-repeat: no-repeat;
@@ -776,12 +776,12 @@ input:-webkit-autofill:focus {
 	float: right;
 	margin-right: 24px;
 }
-.navbar-nav li:nth-child(5){
-	margin-left: 560px;
+.navbar-nav li:nth-child(6){
+	margin-left: 500px;
 }
 @media screen and (max-width: 1000px) {
-	.navbar-nav li:nth-child(5){
-		margin-left: 230px;
+	.navbar-nav li:nth-child(6){
+		margin-left: 150px;
 	}
 }
 .header.style2  .nav li a{
@@ -1731,7 +1731,7 @@ input:-webkit-autofill:focus {
 	color:#bbb;
 }
 .why-choose .why-video {
-	background: url(http://via.placeholder.com/800x720);
+	background: url('images/coming-soon.jpg');
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
@@ -2112,68 +2112,6 @@ input:-webkit-autofill:focus {
   End Projects CSS
 =========================*/
 
-/*=======================
-  08. Statics CSS
-=========================*/ 
-.counter {
-	position: relative;
-	background: url('http://via.placeholder.com/1600x700');
-	padding: 70px 0 100px;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-.counter::before {
-	position: absolute;
-	content: "";
-	height: 100%;
-	left: 0;
-	right: 0;
-	top: 0;
-	width: 100%;
-	background: rgba(0, 0, 0, 0.3);
-}
-.counter .counter-single {
-	text-align: center;
-	position: relative;
-	overflow: hidden;
-	margin-top: 30px;
-}
-.counter .counter-single .icon {
-	float: left;
-}
-.counter .counter-single i {
-	font-size: 32px;
-	text-align: center;
-	border-radius: 3px;
-	width: 70px;
-	height: 90px;
-	background: #fff;
-	line-height: 90px;
-}
-.counter .s-info {
-	padding-top: 15px;
-}
-.counter .counter-single span {
-	display: block;
-	font-size: 30px;
-	color: #fff;
-	margin: 0 0 15px;
-	font-weight: 700;
-}
-.counter .counter-single p {
-	color: #eee;
-	font-size: 18px;
-}
-.counter.bg-none{
-	background:#353535;
-}
-/*=======================
-  End Statics CSS
-=========================*/ 
-
-/*=======================
-  09. Team CSS
-=========================*/ 
 .team {
 	background: #fff;
 	position: relative;
@@ -2686,108 +2624,6 @@ input:-webkit-autofill:focus {
 }
 /*=======================
   End Testimonials CSS
-=========================*/
-
-/*=======================
-  12. Newslatter CSS
-=========================*/
-.newslatter {
-	background: url('http://via.placeholder.com/1600x700');
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	padding: 60px 0;
-	text-align: center;
-	position: relative;
-}
-.newslatter::before {
-	position: absolute;
-	content: "";
-	height: 100%;
-	left: 0;
-	right: 0;
-	top: 0;
-	width: 100%;
-	opacity: 0.85;
-}
-.newslatter .checkbox {
-	text-align: center;
-	margin: 0;
-}
-.newslatter .checkbox label {
-	color: #fff;
-	position: relative;
-	font-size: 16px;
-}
-.newslatter .checkbox label input{
-	display:none;
-}
-.newslatter .checkbox label::before {
-	position: absolute;
-	color: #fff;
-	content: "";
-	left: -4px;
-	top: 5px;
-	width: 15px;
-	height: 15px;
-	border: 1px solid #fff;
-	border-radius: 30px;
-}
-.newslatter .checkbox label::after {
-	position: absolute;
-	color: #fff;
-	content: "\f00c";
-	left: -2px;
-	top: 13px;
-	font-size: 12px;
-	line-height: 0;
-	display:none;
-}
-.newslatter .checkbox label.checked::after{
-	display:block;
-}
-.newslatter .form {
-	position: relative;
-	margin: 20px 0 10px;
-}
-.newslatter .form input {
-	width: 100%;
-	height: 55px;
-	text-transform: capitalize;
-	border: none;
-	border-radius: 60px;
-	background: #fff;
-	color: #353535;
-	padding: 0 53px 0 30px;
-}
-.newslatter .form button {
-	position: absolute;
-	right: 30px;
-	padding: 0;
-	box-shadow: none;
-	top: 3px;
-	line-height: 50px;
-	border-radius: 30px;
-	background: transparent;
-	font-size: 24px;
-	-webkit-transition:all 0.4s ease;
-	-moz-transition:all 0.4s ease;
-	transition:all 0.4s ease;
-}
-.newslatter .form button:hover{
-	background:transparent;
-}
-.newslatter .form:hover button{
-	-webkit-transform:rotate(34deg);
-	-moz-transform:rotate(34deg);
-	transform:rotate(34deg)
-}
-.newslatter p {
-	color: #fff;
-	font-size: 15px;
-}
-/*=======================
-  End Newslatter
 =========================*/
 
 /*=======================
@@ -3596,22 +3432,6 @@ input:-webkit-autofill:focus {
 .call-to-action.dark{
 	background:#353535;
 }
-.call-to-action.background{
-	position: relative;
-	background:url('http://via.placeholder.com/1600x800');
-	background-size:cover;
-	background-position:center;
-}
-.call-to-action.background:before{
-	position: absolute;
-	content: "";
-	height: 100%;
-	left: 0;
-	right: 0;
-	top: 0;
-	width: 100%;
-	opacity:0.9;
-}
 /*=======================
   End Call-To-Action CSS
 =========================*/  
@@ -4067,195 +3887,6 @@ input:-webkit-autofill:focus {
 }
 /*=======================
   End Faq CSS
-=========================*/
-
-/*=======================
-  19. Coming Soon
-=========================*/ 
-.coming-soon{
-	background-image:url('http://via.placeholder.com/1600x800');
-	background-size:cover;
-	background-position:center;
-	position:relative;
-	width:100%;
-	height:100%;
-}
-.coming-soon::before {
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	content: "";
-	background: #000;
-	opacity: 0.5;
-}
-.coming-soon .verticle-lines .vlines {
-	width:3px;
-	height:100%;
-	background:rgba(255,255,255,.2);
-	position:absolute;
-	top:0;
-	bottom:0;
-	-webkit-transform:scaleY(0);
-	-ms-transform:scaleY(0);
-	transform:scaleY(0);
-	-webkit-transform-origin:top left;
-	-ms-transform-origin:top left;
-	transform-origin:top left;
-	-webkit-animation-name:lineanim;
-	animation-name:lineanim;
-	-webkit-animation-iteration-count:infinite;
-	animation-iteration-count:infinite;
-	-webkit-animation-timing-function:cubic-bezier(.785,.135,.15,.86);
-	animation-timing-function:cubic-bezier(.785,.135,.15,.86);
-	-webkit-animation-duration:3s;
-	animation-duration:3s
-}
-.coming-soon .verticle-lines .vlines.one {
-	left:20%;
-	-webkit-animation-delay:1s;
-	animation-delay:1s
- 
-}
-.coming-soon .verticle-lines .vlines.two {
-	left:40%;
-	-webkit-animation-delay:0s;
-	animation-delay:0s;
-}
-.coming-soon .verticle-lines .vlines.three {
-	left:60%;
-	-webkit-animation-delay:2s;
-	animation-delay:2s
-}
-.coming-soon .verticle-lines .vlines.four {
-	left:80%;
-	-webkit-animation-delay:1.5s;
-	animation-delay:1.5s
-}
-.coming-soon .coming-time-inner{
-	display:inline-block;
-	text-align:center;
-}
-.coming-soon .coming-time {
-	background: #000;
-	padding: 40px;
-	border-radius: 15px;
-	margin: 30px 0;
-}
-.coming-soon .cdown {
-	float: left;
-	width: 25%;
-}
-.coming-soon .cdown {
-	text-align: center;
-}
-.coming-soon .cdown span {
-	color: #fff;
-	font-size: 40px;
-}
-.coming-soon .cdown p{
-	font-size:15px;
-}
-.coming-soon .coming-text{
-	text-align:center;
-}
-.coming-soon .coming-text h2 {
-	color: #fff;
-	margin: 0 0 15px;
-	text-transform: uppercase;
-	font-size: 40px;
-}
-.coming-soon .coming-text p {
-	color: #fff;
-	padding: 0px 45px;
-}
-.coming-soon .button {
-	text-align: center;
-}
-.coming-soon .button .btn:hover{
-	background:#fff;
-	color:#353535;
-}
-.coming-soon .subscription-form {
-	position: absolute;
-	top: 0;
-	width: 600px;
-	height: 350px;
-	background: #353535;
-	left: 50%;
-	margin-left: -300px;
-	transform: scale(0);
-	-webkit-transition: all 0.4s ease;
-	-moz-transition: all 0.4s ease;
-	transition: all 0.4s ease;
-	-webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
-	transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
-	text-align: center;
-	padding: 70px 90px;
-}
-.coming-soon .subscription-form.active{
-	transform:scale(1.0);
-	-webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
-	transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
-}
-.coming-soon .subscription-form .cross {
-	position: absolute;
-	right: 0;
-	top: 0;
-	color: #fff;
-	font-size: 15px;
-	width: 40px;
-	height: 40px;
-	line-height: 40px;
-	text-align: center;
-}
-.coming-soon .subscription-form h2{
-	margin-bottom:15px;
-	padding-bottom:15px;
-	color:#fff;
-	position:relative;
-}
-.coming-soon .subscription-form h2:before{
-	position:absolute;
-	left:0;
-	bottom:-1px;
-	content:"";
-	background:#fff;
-	width:50px;
-	height:2px;
-	left:50%;
-	margin-left:-25px;
-}
-.coming-soon .subscription-form p {
-	color: #bbb;
-}
-.coming-soon .subscription-form form {
-	position: relative;
-	margin-top: 30px;
-}
-.coming-soon .subscription-form input {
-	width: 100%;
-	padding: 11px;
-	background: transparent;
-	color:#fff;
-	border: none;
-	border-bottom: 2px solid #fff;
-}
-.coming-soon .subscription-form button {
-	position: absolute;
-	right: 0;
-	bottom: 0px;
-	border-radius: 0px;
-	padding: 8px 16px;
-	background:#fff;
-}
-.coming-soon .subscription-form button i{
-	font-size:25px;
-}
-
-/*=======================
-  20. 404 Error CSS
 =========================*/
 .error-page {
 	text-align: center;
