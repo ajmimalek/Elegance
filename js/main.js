@@ -75,7 +75,7 @@ Version:	1.1
 			autoplayHoverPause:true,
 			center:false,
 			nav:true,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<i class="fas fa-angle-left" aria-hidden="true"></i>', '<i class="fas fa-angle-right" aria-hidden="true"></i>'],
 			dots:true,
 			items:1,
 			responsive:{
@@ -164,7 +164,7 @@ Version:	1.1
 			center:false,
 			margin:15,
 			nav:true,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<i class="fas fa-angle-left" aria-hidden="true"></i>', '<i class="fas fa-angle-right" aria-hidden="true"></i>'],
 			dots:false,
 			items:1,
 		});	
@@ -190,7 +190,7 @@ Version:	1.1
 			autoplayTimeout:3000,
 			margin:30,
 			nav:false,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<i class="fas fa-angle-left" aria-hidden="true"></i>', '<i class="fas fa-angle-right" aria-hidden="true"></i>'],
 			dots:false,
 			responsive:{
 				300: {
@@ -220,7 +220,7 @@ Version:	1.1
 			margin:30,
 			nav: true,
 			dots:false,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<i class="fas fa-angle-left" aria-hidden="true"></i>', '<i class="fas fa-angle-right" aria-hidden="true"></i>'],
 			responsive:{
 				300: {
 					items: 1,
@@ -248,7 +248,7 @@ Version:	1.1
 			center:false,
 			margin:15,
 			nav:true,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<i class="fas fa-angle-left" aria-hidden="true"></i>', '<i class="fas fa-angle-right" aria-hidden="true"></i>'],
 			dots:false,
 			items:1
 		});	
@@ -288,7 +288,7 @@ Version:	1.1
 			margin:0,
 			dots:false,
 			nav: true,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<i class="fas fa-angle-left" aria-hidden="true"></i>', '<i class="fas fa-angle-right" aria-hidden="true"></i>'],
 		});
 		
 		/*======================================
