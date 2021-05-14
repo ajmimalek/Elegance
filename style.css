@@ -776,12 +776,12 @@ input:-webkit-autofill:focus {
 	float: right;
 	margin-right: 24px;
 }
-.navbar-nav li:nth-child(6){
-	margin-left: 500px;
+.navbar-nav li:nth-child(5){
+	margin-left: 585px;
 }
 @media screen and (max-width: 1000px) {
-	.navbar-nav li:nth-child(6){
-		margin-left: 150px;
+	.navbar-nav li:nth-child(5){
+		margin-left: 230px;
 	}
 }
 .header.style2  .nav li a{
@@ -3419,6 +3419,7 @@ input:-webkit-autofill:focus {
 	margin: 0 5px;
 }
 .call-to-action .btn {
+	margin-top: 20px;
 	display: inline-block;
 	background: #fff;
 }
