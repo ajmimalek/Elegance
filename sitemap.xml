@@ -1,32 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://ajmimalek.github.io/elegance/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
 
+		<url>
+			<loc>https://ajmimalek.github.io/index.html</loc>
+			<changefreq>weekly</changefreq>
+		</url>
 
-<url>
-  <loc>https://ajmimalek.github.io/Elegance/</loc>
-  <lastmod>2021-05-14T16:36:15+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://ajmimalek.github.io/Elegance/index.html</loc>
-  <lastmod>2021-05-14T16:36:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ajmimalek.github.io/Elegance/blog-grid.html</loc>
-  <lastmod>2021-05-14T16:36:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://ajmimalek.github.io/Elegance/blog-single.html</loc>
-  <lastmod>2021-05-14T16:36:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+		<url>
+			<loc>https://ajmimalek.github.io/mailto:rebirthteam2021@gmail.com</loc>
+			<changefreq>weekly</changefreq>
+		</url>
 
+		<url>
+			<loc>https://ajmimalek.github.io/#team</loc>
+			<changefreq>weekly</changefreq>
+		</url>
 
-</urlset>
+		<url>
+			<loc>https://ajmimalek.github.io/#services</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ajmimalek.github.io/#</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ajmimalek.github.io/blog-grid.html</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ajmimalek.github.io/blog-single.html</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ajmimalek.github.io/#why-choose</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://ajmimalek.github.io/#blog-main</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+	</urlset>
+
