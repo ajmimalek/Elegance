@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /blog-grid.html
 Disallow: /blog-single.html
-Allow: /*.html
+Disallow: /google6dd2755b571e1c2f.html
+Allow: /index.html
+Allow: /404.html
