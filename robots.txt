@@ -3,4 +3,4 @@ Disallow: /blog-grid.html
 Disallow: /blog-single.html
 Disallow: /google6dd2755b571e1c2f.html
 Allow: /index.html
-Allow: /404.html
+Disallow: /404.html
