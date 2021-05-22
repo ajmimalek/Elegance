@@ -4,3 +4,4 @@ Disallow: /blog-single.html
 Disallow: /google6dd2755b571e1c2f.html
 Allow: /index.html
 Disallow: /404.html
+Sitemap : https://ajmimalek.github.io/Elegance/sitemap.xml
